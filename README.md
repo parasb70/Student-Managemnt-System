@@ -1,8 +1,10 @@
-#Student Management System
+###Student Management System
+
 ##using
-  tkinter 
-  sqlite
+  #tkinter 
+  #sqlite
+  
 ##perform
-  insert data
-  retrieve data
-  GUI form
+  #insert data
+  #3etrieve data
+  #GUI form
